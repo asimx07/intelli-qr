@@ -1,0 +1,48 @@
+[
+  {
+    "id": "8dc8f5c0-7493-4907-b71f-3a422e9ba962",
+    "items": [
+      {
+        "name": "Caprese Bruschetta",
+        "price": "$5.00",
+        "description": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "name": "Caesar Salad",
+        "price": "$5.00",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing"
+      },
+      {
+        "name": "Puttanesca Pasta",
+        "price": "$25.00",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh"
+      },
+      {
+        "name": "Carbonara Pasta",
+        "price": "$25.00",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh"
+      },
+      {
+        "name": "Margherita Pizza",
+        "price": "$25.00",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreagna"
+      },
+      {
+        "name": "Matcha Ice Cream",
+        "price": "$15.00",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh"
+      },
+      {
+        "name": "Chocolate Cake",
+        "price": "$12.00",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh"
+      },
+      {
+        "name": "Creamy Cake",
+        "price": "$15.00",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreagna"
+      }
+    ],
+    "createdAt": "2024-12-08T01:48:31.117Z"
+  }
+]
